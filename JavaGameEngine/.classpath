@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/jars/joml-1.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/joml-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/joml-1.9.0.jar" sourcepath="libs/jars/joml-1.9.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Balinator/git/JavaGameEngine/JavaGameEngine/libs/jars/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-assimp-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-assimp-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-assimp-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-bgfx-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-bgfx-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-bgfx-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-bgfx.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-egl-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-egl-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-egl.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jawt-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jawt-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jawt.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jemalloc-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jemalloc-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jemalloc-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-jemalloc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-lmdb-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-lmdb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-lmdb-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-lmdb.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nanovg-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nanovg-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nanovg-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nanovg.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nfd-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nfd-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nfd.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nuklear-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nuklear-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nuklear-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-nuklear.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-openal-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-openal-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-openal-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opencl-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opencl-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opencl.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengles-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengles-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-opengles.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-ovr-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-ovr-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-ovr-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-ovr.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-par-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-par-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-par-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-par.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-sse-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-sse-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-sse-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-sse.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-stb-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-stb-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-tinyfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-tinyfd-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-tinyfd-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-tinyfd.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-vulkan-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-vulkan-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-vulkan.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-xxhash-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-xxhash-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-xxhash-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl-xxhash.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl.jar" sourcepath="libs/jars/lwjgl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Balinator/git/JavaGameEngine/JavaGameEngine/libs/jars/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jars/steamworks4j-1.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jars/steamworks4j-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/steamworks4j-1.5.0.jar" sourcepath="libs/jars/steamworks4j-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jars/PNGDecoder.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
